@@ -2,6 +2,8 @@
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+![alt text](https://github.com/PratyayMallik1006/dyte-vit-2022-PratyayMallik1006-own/blob/master/images/image.PNG?raw=true)
+
 ## Available Scripts
 
 In the project directory, you can run:
